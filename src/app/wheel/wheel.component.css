@@ -1,0 +1,38 @@
+.wheel{
+    position:absolute;
+    left: 300px;
+    height: 200px;
+
+}
+
+.coverUp{
+    background: white;
+    height: 81px;
+    width:81px;
+    border-radius: 50%;
+    position: absolute;
+    left:358px;
+    top:200px
+}
+
+.btnSpin{
+    position: absolute;
+    left:300px;
+    top:340px
+}
+
+.lastNumDisplay{
+    position: absolute;
+    top:200px;
+    left:370px;
+    font-size:36pt;
+    font-family: cursive;
+    font-weight: 400;
+    text-align: center;
+    color:black;
+}
+
+.token{
+    position: absolute;
+    height:25px;
+}

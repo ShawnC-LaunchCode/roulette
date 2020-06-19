@@ -1,0 +1,13 @@
+header{
+    background-color: darkred;
+    font-family: cursive;
+    min-width: 1800px;
+   
+}
+body{
+    background-color: darkgreen;
+    font-family: cursive;
+    min-width: 1600px;
+    max-width: 2000px;
+    min-height: 1500px;
+}

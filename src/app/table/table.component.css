@@ -1,0 +1,7 @@
+.table{
+    height:280px;
+    transform:rotate(90deg);
+    position: absolute;
+    left:-40px;
+    top:200px;
+}
